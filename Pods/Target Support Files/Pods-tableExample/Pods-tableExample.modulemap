@@ -1,0 +1,6 @@
+module Pods_tableExample {
+  umbrella header "Pods-tableExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
